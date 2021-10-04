@@ -1,0 +1,574 @@
+2018-11-22 08:06:42,392 - ebanking -INFO - URL is opened
+2018-11-22 08:06:42,718 - ebanking -INFO - Entered username
+2018-11-22 08:06:42,945 - ebanking -INFO - Entered password
+2018-11-22 08:06:44,340 - ebanking -INFO - Login test passed
+2018-11-23 06:59:39,910 - ebanking -INFO - URL is opened
+2018-11-23 06:59:40,159 - ebanking -INFO - Entered username
+2018-11-23 06:59:40,342 - ebanking -INFO - Entered password
+2018-11-23 06:59:42,544 - ebanking -INFO - Login test passed
+2018-11-23 07:10:35,432 - ebanking -INFO - URL is opened
+2018-11-23 07:10:35,755 - ebanking -INFO - Entered username
+2018-11-23 07:10:35,968 - ebanking -INFO - Entered password
+2018-11-23 07:10:37,326 - ebanking -INFO - Login test passed
+2018-11-23 07:13:11,746 - ebanking -INFO - URL is opened
+2018-11-23 07:13:17,047 - ebanking -INFO - Entered username
+2018-11-23 07:13:18,666 - ebanking -INFO - Entered password
+2018-11-23 07:13:20,989 - ebanking -INFO - Login test passed
+2018-11-23 07:14:14,479 - ebanking -INFO - URL is opened
+2018-11-23 07:14:14,978 - ebanking -INFO - Entered username
+2018-11-23 07:14:15,207 - ebanking -INFO - Entered password
+2018-11-23 07:14:18,038 - ebanking -INFO - Login test passed
+2018-11-23 07:30:16,264 - ebanking -INFO - URL is opened
+2018-11-23 07:30:16,696 - ebanking -INFO - Entered username
+2018-11-23 07:30:16,925 - ebanking -INFO - Entered password
+2018-11-23 07:30:18,507 - ebanking -INFO - Login test passed
+2018-11-24 06:39:12,523 - ebanking -INFO - URL is opened
+2018-11-24 06:39:12,827 - ebanking -INFO - Entered username
+2018-11-24 06:39:12,971 - ebanking -INFO - Entered password
+2018-11-24 07:23:31,087 - ebanking -INFO - user name provided
+2018-11-24 07:23:31,338 - ebanking -INFO - password provided
+2018-11-24 07:23:35,883 - ebanking -INFO - Login passed
+2018-11-24 07:23:41,171 - ebanking -INFO - user name provided
+2018-11-24 07:23:41,940 - ebanking -INFO - password provided
+2018-11-24 07:23:46,801 - ebanking -INFO - user name provided
+2018-11-24 07:23:47,182 - ebanking -INFO - password provided
+2018-11-24 07:23:51,933 - ebanking -INFO - user name provided
+2018-11-24 07:23:52,219 - ebanking -INFO - password provided
+2018-11-24 07:23:56,749 - ebanking -INFO - Login passed
+2018-11-24 07:24:02,347 - ebanking -INFO - user name provided
+2018-11-24 07:24:02,560 - ebanking -INFO - password provided
+2018-11-24 07:54:34,201 - ebanking -INFO - User name is provided
+2018-11-24 07:54:34,418 - ebanking -INFO - Passsword is provided
+2018-11-24 07:54:39,590 - ebanking -INFO - providing customer details....
+2018-11-24 07:54:48,653 - ebanking -INFO - validation started....
+2018-11-24 07:54:48,730 - ebanking -INFO - test case passed....
+2018-11-24 07:56:49,183 - ebanking -INFO - URL is opened
+2018-11-24 07:56:49,436 - ebanking -INFO - Entered username
+2018-11-24 07:56:49,618 - ebanking -INFO - Entered password
+2018-11-24 07:57:00,690 - ebanking -INFO - user name provided
+2018-11-24 07:57:00,836 - ebanking -INFO - password provided
+2018-11-24 07:57:05,351 - ebanking -INFO - Login passed
+2018-11-24 07:57:12,654 - ebanking -INFO - user name provided
+2018-11-24 07:57:12,863 - ebanking -INFO - password provided
+2018-11-24 07:57:19,331 - ebanking -INFO - user name provided
+2018-11-24 07:57:19,521 - ebanking -INFO - password provided
+2018-11-24 07:57:25,056 - ebanking -INFO - user name provided
+2018-11-24 07:57:25,176 - ebanking -INFO - password provided
+2018-11-24 07:57:29,487 - ebanking -INFO - Login passed
+2018-11-24 07:57:36,479 - ebanking -INFO - user name provided
+2018-11-24 07:57:36,615 - ebanking -INFO - password provided
+2018-11-24 07:57:48,990 - ebanking -INFO - User name is provided
+2018-11-24 07:57:49,140 - ebanking -INFO - Passsword is provided
+2018-11-24 07:57:54,290 - ebanking -INFO - providing customer details....
+2018-11-24 07:58:03,372 - ebanking -INFO - validation started....
+2018-11-24 07:58:03,393 - ebanking -INFO - test case passed....
+2018-11-24 08:00:42,420 - ebanking -INFO - user name provided
+2018-11-24 08:00:42,689 - ebanking -INFO - password provided
+2018-11-24 08:00:48,510 - ebanking -INFO - user name provided
+2018-11-24 08:00:48,822 - ebanking -INFO - password provided
+2018-11-24 08:00:54,700 - ebanking -INFO - user name provided
+2018-11-24 08:00:55,015 - ebanking -INFO - password provided
+2018-11-24 08:01:06,498 - ebanking -INFO - URL is opened
+2018-11-24 08:01:06,690 - ebanking -INFO - Entered username
+2018-11-24 08:01:06,863 - ebanking -INFO - Entered password
+2018-11-24 08:01:08,353 - ebanking -INFO - Login test passed
+2018-11-27 06:46:57,598 - ebanking -INFO - URL is opened
+2018-11-27 06:46:57,912 - ebanking -INFO - Entered username
+2018-11-27 06:46:58,082 - ebanking -INFO - Entered password
+2018-11-27 06:46:59,490 - ebanking -INFO - Login test passed
+2018-11-27 06:47:06,753 - ebanking -INFO - User name is provided
+2018-11-27 06:47:06,945 - ebanking -INFO - Passsword is provided
+2018-11-27 06:47:12,518 - ebanking -INFO - providing customer details....
+2018-11-27 06:47:22,094 - ebanking -INFO - validation started....
+2018-11-27 06:47:22,128 - ebanking -INFO - test case passed....
+2018-11-27 07:07:41,422 - ebanking -INFO - URL is opened
+2018-11-27 07:07:41,799 - ebanking -INFO - Entered username
+2018-11-27 07:07:42,010 - ebanking -INFO - Entered password
+2018-11-27 07:07:44,072 - ebanking -INFO - Login test passed
+2018-11-27 07:07:51,443 - ebanking -INFO - User name is provided
+2018-11-27 07:07:51,664 - ebanking -INFO - Passsword is provided
+2018-11-27 07:07:57,563 - ebanking -INFO - providing customer details....
+2018-11-27 07:08:06,501 - ebanking -INFO - validation started....
+2018-11-27 07:09:27,107 - ebanking -INFO - URL is opened
+2018-11-27 07:09:27,361 - ebanking -INFO - Entered username
+2018-11-27 07:09:27,590 - ebanking -INFO - Entered password
+2018-11-27 07:09:29,131 - ebanking -INFO - Login test passed
+2018-11-27 07:09:37,089 - ebanking -INFO - User name is provided
+2018-11-27 07:09:37,251 - ebanking -INFO - Passsword is provided
+2018-11-27 07:09:43,571 - ebanking -INFO - providing customer details....
+2018-11-27 07:09:56,913 - ebanking -INFO - validation started....
+2018-11-27 07:09:56,947 - ebanking -INFO - test case passed....
+2018-11-27 07:13:55,575 - ebanking -INFO - URL is opened
+2018-11-27 07:13:55,850 - ebanking -INFO - Entered username
+2018-11-27 07:13:56,057 - ebanking -INFO - Entered password
+2018-11-27 07:13:57,451 - ebanking -INFO - Login test passed
+2018-11-27 07:14:04,781 - ebanking -INFO - User name is provided
+2018-11-27 07:14:04,918 - ebanking -INFO - Passsword is provided
+2018-11-27 07:14:10,040 - ebanking -INFO - providing customer details....
+2018-11-27 07:14:21,394 - ebanking -INFO - validation started....
+2018-11-27 07:14:21,430 - ebanking -INFO - test case passed....
+2018-11-27 07:42:32,801 - ebanking -INFO - URL is opened
+2018-11-27 07:42:33,008 - ebanking -INFO - Entered username
+2018-11-27 07:42:33,130 - ebanking -INFO - Entered password
+2018-11-27 07:42:36,278 - ebanking -INFO - Login test passed
+2018-11-27 07:42:43,914 - ebanking -INFO - User name is provided
+2018-11-27 07:42:44,046 - ebanking -INFO - Passsword is provided
+2018-11-27 07:42:49,371 - ebanking -INFO - providing customer details....
+2018-11-27 07:43:02,036 - ebanking -INFO - validation started....
+2018-11-27 07:43:02,081 - ebanking -INFO - test case passed....
+2018-11-27 07:55:25,354 - ebanking -INFO - URL is opened
+2018-11-27 07:55:26,413 - ebanking -INFO - Entered username
+2018-11-27 07:55:26,604 - ebanking -INFO - Entered password
+2018-11-27 07:55:27,991 - ebanking -INFO - Login test passed
+2018-11-27 07:55:37,183 - ebanking -INFO - User name is provided
+2018-11-27 07:55:37,365 - ebanking -INFO - Passsword is provided
+2018-11-27 07:55:42,851 - ebanking -INFO - providing customer details....
+2018-11-27 07:55:58,716 - ebanking -INFO - validation started....
+2018-11-27 07:55:58,749 - ebanking -INFO - test case passed....
+2021-10-03 17:33:54,025 - Sample Project -INFO - Entered username
+2021-10-03 17:33:54,158 - Sample Project -INFO - Entered password
+2021-10-03 17:34:00,122 - Sample Project -INFO - Login test passed
+2021-10-03 17:34:22,509 - Sample Project -INFO - Entered username
+2021-10-03 17:34:22,578 - Sample Project -INFO - Entered password
+2021-10-03 17:34:28,971 - Sample Project -INFO - Login test passed
+2021-10-03 17:36:24,047 - Sample Project -INFO - Entered username
+2021-10-03 17:36:24,108 - Sample Project -INFO - Entered password
+2021-10-03 17:36:30,063 - Sample Project -INFO - Login test passed
+2021-10-03 21:09:48,590 - Sample Project -INFO - Entered username
+2021-10-03 21:09:48,680 - Sample Project -INFO - Entered password
+2021-10-03 21:09:54,662 - Sample Project -INFO - Login test passed
+2021-10-04 22:21:14,146 - Sample Project -INFO - Entered username
+2021-10-04 22:21:14,227 - Sample Project -INFO - Entered password
+2021-10-04 22:25:14,451 - Sample Project -INFO - Entered username
+2021-10-04 22:25:14,634 - Sample Project -INFO - Entered password
+2021-10-04 22:26:22,756 - Sample Project -INFO - Entered username
+2021-10-04 22:26:22,832 - Sample Project -INFO - Entered password
+2021-10-04 22:28:35,929 - Sample Project -INFO - Entered username
+2021-10-04 22:28:35,989 - Sample Project -INFO - Entered password
+2021-10-04 22:29:11,051 - Sample Project -INFO - Entered username
+2021-10-04 22:29:11,114 - Sample Project -INFO - Entered password
+2021-10-04 22:30:19,781 - Sample Project -INFO - Entered username
+2021-10-04 22:30:19,842 - Sample Project -INFO - Entered password
+2021-10-04 22:31:03,511 - Sample Project -INFO - Entered username
+2021-10-04 22:31:03,572 - Sample Project -INFO - Entered password
+2021-10-04 22:32:58,953 - Sample Project -INFO - URL is opened
+2021-10-04 22:32:59,151 - Sample Project -INFO - Entered username
+2021-10-04 22:32:59,208 - Sample Project -INFO - Entered password
+2021-10-04 22:33:21,895 - Sample Project -INFO - URL is opened
+2021-10-04 22:33:22,005 - Sample Project -INFO - Entered username
+2021-10-04 22:33:22,078 - Sample Project -INFO - Entered password
+2021-10-04 22:34:29,962 - Sample Project -INFO - URL is opened
+2021-10-04 22:34:30,033 - Sample Project -INFO - Entered username
+2021-10-04 22:34:30,092 - Sample Project -INFO - Entered password
+2021-10-04 22:35:10,630 - Sample Project -INFO - URL is opened
+2021-10-04 22:35:10,704 - Sample Project -INFO - Entered username
+2021-10-04 22:35:10,811 - Sample Project -INFO - Entered password
+2021-10-04 23:04:16,823 - Sample Project -INFO - URL is opened
+2021-10-04 23:04:16,908 - Sample Project -INFO - Entered username
+2021-10-04 23:04:16,974 - Sample Project -INFO - Entered password
+2021-10-04 23:05:52,461 - Sample Project -INFO - URL is opened
+2021-10-04 23:05:52,541 - Sample Project -INFO - Entered username
+2021-10-04 23:05:52,607 - Sample Project -INFO - Entered password
+2021-10-04 23:08:45,089 - Sample Project -INFO - URL is opened
+2021-10-04 23:08:45,277 - Sample Project -INFO - Entered username
+2021-10-04 23:08:45,341 - Sample Project -INFO - Entered password
+2021-10-04 23:09:42,608 - Sample Project -INFO - URL is opened
+2021-10-04 23:09:42,846 - Sample Project -INFO - Entered username
+2021-10-04 23:09:42,907 - Sample Project -INFO - Entered password
+2021-10-04 23:12:35,158 - Sample Project -INFO - URL is opened
+2021-10-04 23:12:35,339 - Sample Project -INFO - Entered username
+2021-10-04 23:12:35,395 - Sample Project -INFO - Entered password
+2021-10-04 23:12:38,882 - Sample Project -INFO - Alert Handling
+2021-10-04 23:12:40,003 - Sample Project -INFO - Login test failed
+2021-10-04 23:14:00,041 - Sample Project -INFO - URL is opened
+2021-10-04 23:14:00,277 - Sample Project -INFO - Entered username
+2021-10-04 23:14:00,335 - Sample Project -INFO - Entered password
+2021-10-04 23:14:03,770 - Sample Project -INFO - Alert Handling
+2021-10-04 23:14:05,092 - Sample Project -INFO - Login test failed
+2021-10-04 23:16:33,092 - Sample Project -INFO - URL is opened
+2021-10-04 23:16:33,167 - Sample Project -INFO - Entered username
+2021-10-04 23:16:33,227 - Sample Project -INFO - Entered password
+2021-10-04 23:16:36,603 - Sample Project -INFO - Alert Handling
+2021-10-04 23:16:37,499 - Sample Project -INFO - Login test failed
+2021-10-04 23:18:18,756 - Sample Project -INFO - URL is opened
+2021-10-04 23:18:18,931 - Sample Project -INFO - Entered username
+2021-10-04 23:18:18,992 - Sample Project -INFO - Entered password
+2021-10-04 23:18:22,350 - Sample Project -INFO - Alert Handling
+2021-10-04 23:18:23,206 - Sample Project -INFO - Login test failed
+2021-10-04 23:20:28,297 - Sample Project -INFO - URL is opened
+2021-10-04 23:20:28,370 - Sample Project -INFO - Entered username
+2021-10-04 23:20:28,431 - Sample Project -INFO - Entered password
+2021-10-04 23:20:31,889 - Sample Project -INFO - Alert Handling
+2021-10-04 23:20:33,046 - Sample Project -INFO - Login test failed
+2021-10-04 23:22:18,084 - Sample Project -INFO - URL is opened
+2021-10-04 23:22:18,172 - Sample Project -INFO - Entered username
+2021-10-04 23:22:18,258 - Sample Project -INFO - Entered password
+2021-10-04 23:22:21,697 - Sample Project -INFO - Alert Handling
+2021-10-04 23:22:22,611 - Sample Project -INFO - Login test failed
+2021-10-04 23:24:30,664 - Sample Project -INFO - URL is opened
+2021-10-04 23:24:30,827 - Sample Project -INFO - Entered username
+2021-10-04 23:24:30,881 - Sample Project -INFO - Entered password
+2021-10-04 23:24:34,366 - Sample Project -INFO - Alert Handling
+2021-10-04 23:24:35,504 - Sample Project -INFO - Login test failed
+2021-10-04 23:31:37,274 - Sample Project -INFO - URL is opened
+2021-10-04 23:31:37,357 - Sample Project -INFO - Entered username
+2021-10-04 23:31:37,443 - Sample Project -INFO - Entered password
+2021-10-04 23:31:40,829 - Sample Project -INFO - Alert Handling
+2021-10-04 23:31:41,943 - Sample Project -INFO - Login test failed
+2021-10-04 23:31:46,429 - Sample Project -INFO - user name provided
+2021-10-04 23:31:46,494 - Sample Project -INFO - password provided
+2021-10-04 23:31:51,086 - Sample Project -INFO - user name provided
+2021-10-04 23:31:51,167 - Sample Project -INFO - password provided
+2021-10-04 23:31:56,064 - Sample Project -INFO - user name provided
+2021-10-04 23:31:56,174 - Sample Project -INFO - password provided
+2021-10-04 23:32:01,119 - Sample Project -INFO - user name provided
+2021-10-04 23:32:01,184 - Sample Project -INFO - password provided
+2021-10-04 23:32:05,724 - Sample Project -INFO - user name provided
+2021-10-04 23:32:05,799 - Sample Project -INFO - password provided
+2021-10-04 23:32:14,526 - Sample Project -INFO - User name is provided
+2021-10-04 23:32:14,577 - Sample Project -INFO - Passsword is provided
+2021-10-04 23:35:10,742 - Sample Project -INFO - URL is opened
+2021-10-04 23:35:10,913 - Sample Project -INFO - Entered username
+2021-10-04 23:35:10,972 - Sample Project -INFO - Entered password
+2021-10-04 23:35:14,355 - Sample Project -INFO - Alert Handling
+2021-10-04 23:35:15,284 - Sample Project -INFO - Login test failed
+2021-10-04 23:35:19,730 - Sample Project -INFO - user name provided
+2021-10-04 23:35:19,787 - Sample Project -INFO - password provided
+2021-10-04 23:35:24,421 - Sample Project -INFO - user name provided
+2021-10-04 23:35:24,483 - Sample Project -INFO - password provided
+2021-10-04 23:35:29,418 - Sample Project -INFO - user name provided
+2021-10-04 23:35:29,680 - Sample Project -INFO - password provided
+2021-10-04 23:35:34,364 - Sample Project -INFO - user name provided
+2021-10-04 23:35:34,428 - Sample Project -INFO - password provided
+2021-10-04 23:35:39,370 - Sample Project -INFO - user name provided
+2021-10-04 23:35:39,435 - Sample Project -INFO - password provided
+2021-10-04 23:35:48,494 - Sample Project -INFO - User name is provided
+2021-10-04 23:35:48,622 - Sample Project -INFO - Passsword is provided
+2021-10-04 23:57:06,827 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:11,113 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:13,008 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:14,880 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:14,952 - Orange HRM -INFO - Entered username
+2021-10-04 23:57:15,012 - Orange HRM -INFO - Entered password
+2021-10-04 23:57:19,271 - Orange HRM -INFO - Login test passed
+2021-10-04 23:57:19,272 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:21,718 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:23,746 - Orange HRM -INFO - user name provided
+2021-10-04 23:57:23,799 - Orange HRM -INFO - password provided
+2021-10-04 23:57:28,264 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:30,140 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:32,439 - Orange HRM -INFO - user name provided
+2021-10-04 23:57:32,503 - Orange HRM -INFO - password provided
+2021-10-04 23:57:37,280 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:39,093 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:40,982 - Orange HRM -INFO - user name provided
+2021-10-04 23:57:41,043 - Orange HRM -INFO - password provided
+2021-10-04 23:57:45,463 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:47,317 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:49,205 - Orange HRM -INFO - user name provided
+2021-10-04 23:57:49,266 - Orange HRM -INFO - password provided
+2021-10-04 23:57:53,714 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:57:55,563 - Orange HRM -INFO - URL is opened
+2021-10-04 23:57:57,456 - Orange HRM -INFO - user name provided
+2021-10-04 23:57:57,523 - Orange HRM -INFO - password provided
+2021-10-04 23:58:02,172 - Orange HRM -INFO - Closing Browser
+2021-10-04 23:58:04,067 - Orange HRM -INFO - URL is opened
+2021-10-04 23:58:06,010 - Orange HRM -INFO - User name is provided
+2021-10-04 23:58:06,073 - Orange HRM -INFO - Passsword is provided
+2021-10-04 23:58:10,412 - Orange HRM -INFO - providing customer details....
+2021-10-04 23:58:20,282 - Orange HRM -INFO - validation started....
+2021-10-04 23:58:20,301 - Orange HRM -INFO - test case passed....
+2021-10-04 23:58:20,302 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:01:25,335 - Orange HRM -INFO - URL is opened
+2021-10-05 00:01:29,152 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:01:31,148 - Orange HRM -INFO - URL is opened
+2021-10-05 00:01:33,315 - Orange HRM -INFO - URL is opened
+2021-10-05 00:01:33,437 - Orange HRM -INFO - Entered username
+2021-10-05 00:01:33,494 - Orange HRM -INFO - Entered password
+2021-10-05 00:01:37,470 - Orange HRM -INFO - Login test passed
+2021-10-05 00:01:37,471 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:01:39,302 - Orange HRM -INFO - URL is opened
+2021-10-05 00:01:41,829 - Orange HRM -INFO - user name provided
+2021-10-05 00:01:41,899 - Orange HRM -INFO - password provided
+2021-10-05 00:01:46,463 - Orange HRM -INFO - user name provided
+2021-10-05 00:01:46,524 - Orange HRM -INFO - password provided
+2021-10-05 00:01:51,232 - Orange HRM -INFO - user name provided
+2021-10-05 00:01:51,314 - Orange HRM -INFO - password provided
+2021-10-05 00:01:56,089 - Orange HRM -INFO - user name provided
+2021-10-05 00:01:56,150 - Orange HRM -INFO - password provided
+2021-10-05 00:02:00,931 - Orange HRM -INFO - user name provided
+2021-10-05 00:02:00,996 - Orange HRM -INFO - password provided
+2021-10-05 00:02:05,701 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:02:07,647 - Orange HRM -INFO - URL is opened
+2021-10-05 00:02:09,583 - Orange HRM -INFO - User name is provided
+2021-10-05 00:02:09,641 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:02:14,247 - Orange HRM -INFO - providing customer details....
+2021-10-05 00:02:24,078 - Orange HRM -INFO - validation started....
+2021-10-05 00:02:24,145 - Orange HRM -INFO - test case passed....
+2021-10-05 00:02:24,146 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:06:48,889 - Orange HRM -INFO - URL is opened
+2021-10-05 00:06:53,010 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:06:54,849 - Orange HRM -INFO - URL is opened
+2021-10-05 00:06:56,949 - Orange HRM -INFO - URL is opened
+2021-10-05 00:06:57,019 - Orange HRM -INFO - Entered username
+2021-10-05 00:06:57,150 - Orange HRM -INFO - Entered password
+2021-10-05 00:07:01,048 - Orange HRM -INFO - Login test passed
+2021-10-05 00:07:01,049 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:07:02,890 - Orange HRM -INFO - URL is opened
+2021-10-05 00:07:05,356 - Orange HRM -INFO - user name provided
+2021-10-05 00:07:05,418 - Orange HRM -INFO - password provided
+2021-10-05 00:07:10,125 - Orange HRM -INFO - Login passed
+2021-10-05 00:07:10,217 - Orange HRM -INFO - user name provided
+2021-10-05 00:07:10,277 - Orange HRM -INFO - password provided
+2021-10-05 00:07:14,715 - Orange HRM -INFO - Login passed
+2021-10-05 00:07:14,770 - Orange HRM -INFO - user name provided
+2021-10-05 00:07:14,830 - Orange HRM -INFO - password provided
+2021-10-05 00:07:19,487 - Orange HRM -INFO - Login passed
+2021-10-05 00:07:19,546 - Orange HRM -INFO - user name provided
+2021-10-05 00:07:19,604 - Orange HRM -INFO - password provided
+2021-10-05 00:07:24,246 - Orange HRM -INFO - Login passed
+2021-10-05 00:07:24,367 - Orange HRM -INFO - user name provided
+2021-10-05 00:07:24,423 - Orange HRM -INFO - password provided
+2021-10-05 00:07:29,102 - Orange HRM -INFO - Login passed
+2021-10-05 00:07:29,103 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:07:30,978 - Orange HRM -INFO - URL is opened
+2021-10-05 00:07:33,191 - Orange HRM -INFO - User name is provided
+2021-10-05 00:07:33,254 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:07:37,814 - Orange HRM -INFO - providing customer details....
+2021-10-05 00:07:47,579 - Orange HRM -INFO - validation started....
+2021-10-05 00:07:47,599 - Orange HRM -INFO - Customer Registered Successfully!!!.
+2021-10-05 00:07:47,600 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:10:26,667 - Orange HRM -INFO - URL is opened
+2021-10-05 00:10:28,532 - Orange HRM -INFO - URL is opened
+2021-10-05 00:10:28,612 - Orange HRM -INFO - Entered username
+2021-10-05 00:10:28,688 - Orange HRM -INFO - Entered password
+2021-10-05 00:10:32,067 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:10:33,355 - Orange HRM -INFO - Login test failed
+2021-10-05 00:10:33,494 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:10:35,479 - Orange HRM -INFO - URL is opened
+2021-10-05 00:10:38,231 - Orange HRM -INFO - user name provided
+2021-10-05 00:10:38,289 - Orange HRM -INFO - password provided
+2021-10-05 00:10:42,733 - Orange HRM -INFO - Login passed
+2021-10-05 00:10:42,909 - Orange HRM -INFO - user name provided
+2021-10-05 00:10:42,959 - Orange HRM -INFO - password provided
+2021-10-05 00:10:47,968 - Orange HRM -INFO - Login passed
+2021-10-05 00:10:48,024 - Orange HRM -INFO - user name provided
+2021-10-05 00:10:48,088 - Orange HRM -INFO - password provided
+2021-10-05 00:10:52,801 - Orange HRM -INFO - Login passed
+2021-10-05 00:10:52,866 - Orange HRM -INFO - user name provided
+2021-10-05 00:10:52,930 - Orange HRM -INFO - password provided
+2021-10-05 00:10:57,803 - Orange HRM -INFO - Login passed
+2021-10-05 00:10:57,872 - Orange HRM -INFO - user name provided
+2021-10-05 00:10:57,936 - Orange HRM -INFO - password provided
+2021-10-05 00:11:02,918 - Orange HRM -INFO - Login passed
+2021-10-05 00:11:02,919 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:11:04,864 - Orange HRM -INFO - URL is opened
+2021-10-05 00:11:06,755 - Orange HRM -INFO - User name is provided
+2021-10-05 00:11:06,819 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:11:10,210 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:14:10,883 - Orange HRM -INFO - URL is opened
+2021-10-05 00:14:12,707 - Orange HRM -INFO - URL is opened
+2021-10-05 00:14:12,814 - Orange HRM -INFO - Entered username
+2021-10-05 00:14:12,886 - Orange HRM -INFO - Entered password
+2021-10-05 00:14:16,231 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:14:17,537 - Orange HRM -INFO - Login test failed
+2021-10-05 00:14:17,696 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:14:19,539 - Orange HRM -INFO - URL is opened
+2021-10-05 00:14:21,957 - Orange HRM -INFO - user name provided
+2021-10-05 00:14:22,016 - Orange HRM -INFO - password provided
+2021-10-05 00:14:26,540 - Orange HRM -INFO - Login passed
+2021-10-05 00:14:26,601 - Orange HRM -INFO - user name provided
+2021-10-05 00:14:26,664 - Orange HRM -INFO - password provided
+2021-10-05 00:14:31,344 - Orange HRM -INFO - Login passed
+2021-10-05 00:14:31,401 - Orange HRM -INFO - user name provided
+2021-10-05 00:14:31,458 - Orange HRM -INFO - password provided
+2021-10-05 00:14:36,122 - Orange HRM -INFO - Login passed
+2021-10-05 00:14:36,182 - Orange HRM -INFO - user name provided
+2021-10-05 00:14:36,239 - Orange HRM -INFO - password provided
+2021-10-05 00:14:40,906 - Orange HRM -INFO - Login passed
+2021-10-05 00:14:40,968 - Orange HRM -INFO - user name provided
+2021-10-05 00:14:41,036 - Orange HRM -INFO - password provided
+2021-10-05 00:14:45,460 - Orange HRM -INFO - Login passed
+2021-10-05 00:14:45,462 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:14:47,342 - Orange HRM -INFO - URL is opened
+2021-10-05 00:14:49,271 - Orange HRM -INFO - User name is provided
+2021-10-05 00:14:49,334 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:14:52,728 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:14:54,041 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:22:09,104 - Orange HRM -INFO - URL is opened
+2021-10-05 00:22:11,282 - Orange HRM -INFO - URL is opened
+2021-10-05 00:22:11,352 - Orange HRM -INFO - Entered username
+2021-10-05 00:22:11,510 - Orange HRM -INFO - Entered password
+2021-10-05 00:22:14,868 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:22:15,936 - Orange HRM -INFO - Login test failed
+2021-10-05 00:22:16,076 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:22:18,229 - Orange HRM -INFO - URL is opened
+2021-10-05 00:22:20,624 - Orange HRM -INFO - user name provided
+2021-10-05 00:22:20,683 - Orange HRM -INFO - password provided
+2021-10-05 00:22:25,462 - Orange HRM -INFO - Login passed
+2021-10-05 00:22:25,525 - Orange HRM -INFO - user name provided
+2021-10-05 00:22:25,656 - Orange HRM -INFO - password provided
+2021-10-05 00:22:30,318 - Orange HRM -INFO - Login passed
+2021-10-05 00:22:30,384 - Orange HRM -INFO - user name provided
+2021-10-05 00:22:30,472 - Orange HRM -INFO - password provided
+2021-10-05 00:22:34,886 - Orange HRM -INFO - Login passed
+2021-10-05 00:22:34,954 - Orange HRM -INFO - user name provided
+2021-10-05 00:22:35,006 - Orange HRM -INFO - password provided
+2021-10-05 00:22:39,660 - Orange HRM -INFO - Login passed
+2021-10-05 00:22:39,753 - Orange HRM -INFO - user name provided
+2021-10-05 00:22:39,810 - Orange HRM -INFO - password provided
+2021-10-05 00:22:44,504 - Orange HRM -INFO - Login passed
+2021-10-05 00:22:44,505 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:22:46,478 - Orange HRM -INFO - URL is opened
+2021-10-05 00:22:48,447 - Orange HRM -INFO - User name is provided
+2021-10-05 00:22:48,512 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:22:51,967 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:22:56,314 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:23:20,426 - Orange HRM -INFO - URL is opened
+2021-10-05 00:23:22,754 - Orange HRM -INFO - URL is opened
+2021-10-05 00:23:22,913 - Orange HRM -INFO - Entered username
+2021-10-05 00:23:22,984 - Orange HRM -INFO - Entered password
+2021-10-05 00:23:26,355 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:23:27,660 - Orange HRM -INFO - Login test failed
+2021-10-05 00:23:27,797 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:23:29,666 - Orange HRM -INFO - URL is opened
+2021-10-05 00:23:32,412 - Orange HRM -INFO - user name provided
+2021-10-05 00:23:32,498 - Orange HRM -INFO - password provided
+2021-10-05 00:23:36,922 - Orange HRM -INFO - Login passed
+2021-10-05 00:23:37,007 - Orange HRM -INFO - user name provided
+2021-10-05 00:23:37,065 - Orange HRM -INFO - password provided
+2021-10-05 00:23:41,761 - Orange HRM -INFO - Login passed
+2021-10-05 00:23:41,812 - Orange HRM -INFO - user name provided
+2021-10-05 00:23:41,875 - Orange HRM -INFO - password provided
+2021-10-05 00:23:46,613 - Orange HRM -INFO - Login passed
+2021-10-05 00:23:46,664 - Orange HRM -INFO - user name provided
+2021-10-05 00:23:46,724 - Orange HRM -INFO - password provided
+2021-10-05 00:23:51,229 - Orange HRM -INFO - Login passed
+2021-10-05 00:23:51,402 - Orange HRM -INFO - user name provided
+2021-10-05 00:23:51,451 - Orange HRM -INFO - password provided
+2021-10-05 00:23:56,178 - Orange HRM -INFO - Login passed
+2021-10-05 00:23:56,180 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:23:58,113 - Orange HRM -INFO - URL is opened
+2021-10-05 00:24:00,643 - Orange HRM -INFO - User name is provided
+2021-10-05 00:24:01,664 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:24:06,580 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:24:11,586 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:38:06,780 - Orange HRM -INFO - URL is opened
+2021-10-05 00:38:08,659 - Orange HRM -INFO - URL is opened
+2021-10-05 00:38:08,741 - Orange HRM -INFO - Entered username
+2021-10-05 00:38:08,814 - Orange HRM -INFO - Entered password
+2021-10-05 00:38:12,245 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:38:13,611 - Orange HRM -INFO - Login test failed
+2021-10-05 00:38:13,754 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:38:16,111 - Orange HRM -INFO - URL is opened
+2021-10-05 00:38:21,259 - Orange HRM -INFO - user name provided
+2021-10-05 00:38:21,356 - Orange HRM -INFO - password provided
+2021-10-05 00:38:25,851 - Orange HRM -INFO - Login passed
+2021-10-05 00:38:25,905 - Orange HRM -INFO - user name provided
+2021-10-05 00:38:25,974 - Orange HRM -INFO - password provided
+2021-10-05 00:38:30,420 - Orange HRM -INFO - Login passed
+2021-10-05 00:38:30,480 - Orange HRM -INFO - user name provided
+2021-10-05 00:38:30,542 - Orange HRM -INFO - password provided
+2021-10-05 00:38:35,069 - Orange HRM -INFO - Login passed
+2021-10-05 00:38:35,147 - Orange HRM -INFO - user name provided
+2021-10-05 00:38:35,210 - Orange HRM -INFO - password provided
+2021-10-05 00:38:39,912 - Orange HRM -INFO - Login passed
+2021-10-05 00:38:39,970 - Orange HRM -INFO - user name provided
+2021-10-05 00:38:40,036 - Orange HRM -INFO - password provided
+2021-10-05 00:38:45,033 - Orange HRM -INFO - Login passed
+2021-10-05 00:38:45,034 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:38:46,912 - Orange HRM -INFO - URL is opened
+2021-10-05 00:38:49,070 - Orange HRM -INFO - User name is provided
+2021-10-05 00:38:49,130 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:38:52,497 - Orange HRM -INFO - Alert Handling
+2021-10-05 00:38:57,078 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:42:47,932 - Orange HRM -INFO - URL is opened
+2021-10-05 00:42:50,067 - Orange HRM -INFO - URL is opened
+2021-10-05 00:42:50,158 - Orange HRM -INFO - Entered username
+2021-10-05 00:42:50,235 - Orange HRM -INFO - Entered password
+2021-10-05 00:42:54,189 - Orange HRM -INFO - Login test passed
+2021-10-05 00:42:54,198 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:42:56,214 - Orange HRM -INFO - URL is opened
+2021-10-05 00:42:59,072 - Orange HRM -INFO - user name provided
+2021-10-05 00:42:59,144 - Orange HRM -INFO - password provided
+2021-10-05 00:43:03,858 - Orange HRM -INFO - Login passed
+2021-10-05 00:43:03,936 - Orange HRM -INFO - user name provided
+2021-10-05 00:43:04,009 - Orange HRM -INFO - password provided
+2021-10-05 00:43:08,673 - Orange HRM -INFO - Login passed
+2021-10-05 00:43:08,740 - Orange HRM -INFO - user name provided
+2021-10-05 00:43:08,804 - Orange HRM -INFO - password provided
+2021-10-05 00:43:13,481 - Orange HRM -INFO - Login passed
+2021-10-05 00:43:13,653 - Orange HRM -INFO - user name provided
+2021-10-05 00:43:13,714 - Orange HRM -INFO - password provided
+2021-10-05 00:43:18,167 - Orange HRM -INFO - Login passed
+2021-10-05 00:43:18,313 - Orange HRM -INFO - user name provided
+2021-10-05 00:43:18,361 - Orange HRM -INFO - password provided
+2021-10-05 00:43:23,352 - Orange HRM -INFO - Login passed
+2021-10-05 00:43:23,353 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:43:25,268 - Orange HRM -INFO - URL is opened
+2021-10-05 00:43:27,520 - Orange HRM -INFO - User name is provided
+2021-10-05 00:43:27,579 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:43:35,201 - Orange HRM -INFO - providing customer details....
+2021-10-05 00:43:44,986 - Orange HRM -INFO - validation started....
+2021-10-05 00:43:45,006 - Orange HRM -INFO - Customer Not Registered Successfully!!!.
+2021-10-05 00:43:45,126 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:48:07,452 - Orange HRM -INFO - URL is opened
+2021-10-05 00:48:09,480 - Orange HRM -INFO - URL is opened
+2021-10-05 00:48:09,649 - Orange HRM -INFO - Entered username
+2021-10-05 00:48:09,707 - Orange HRM -INFO - Entered password
+2021-10-05 00:48:13,657 - Orange HRM -INFO - Login test passed
+2021-10-05 00:48:13,667 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:48:15,629 - Orange HRM -INFO - URL is opened
+2021-10-05 00:48:18,198 - Orange HRM -INFO - user name provided
+2021-10-05 00:48:18,294 - Orange HRM -INFO - password provided
+2021-10-05 00:48:22,757 - Orange HRM -INFO - Login passed
+2021-10-05 00:48:22,809 - Orange HRM -INFO - user name provided
+2021-10-05 00:48:22,872 - Orange HRM -INFO - password provided
+2021-10-05 00:48:27,566 - Orange HRM -INFO - Login passed
+2021-10-05 00:48:27,631 - Orange HRM -INFO - user name provided
+2021-10-05 00:48:27,684 - Orange HRM -INFO - password provided
+2021-10-05 00:48:32,471 - Orange HRM -INFO - Login passed
+2021-10-05 00:48:32,543 - Orange HRM -INFO - user name provided
+2021-10-05 00:48:32,604 - Orange HRM -INFO - password provided
+2021-10-05 00:48:37,526 - Orange HRM -INFO - Login passed
+2021-10-05 00:48:37,627 - Orange HRM -INFO - user name provided
+2021-10-05 00:48:37,695 - Orange HRM -INFO - password provided
+2021-10-05 00:48:42,666 - Orange HRM -INFO - Login passed
+2021-10-05 00:48:42,669 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:48:45,142 - Orange HRM -INFO - URL is opened
+2021-10-05 00:48:47,032 - Orange HRM -INFO - User name is provided
+2021-10-05 00:48:47,189 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:48:54,767 - Orange HRM -INFO - providing customer details....
+2021-10-05 00:49:04,460 - Orange HRM -INFO - validation started....
+2021-10-05 00:49:04,491 - Orange HRM -INFO - Customer Not Registered Successfully!!!.
+2021-10-05 00:49:04,615 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:50:48,285 - Orange HRM -INFO - URL is opened
+2021-10-05 00:50:50,502 - Orange HRM -INFO - URL is opened
+2021-10-05 00:50:50,582 - Orange HRM -INFO - Entered username
+2021-10-05 00:50:50,739 - Orange HRM -INFO - Entered password
+2021-10-05 00:50:54,806 - Orange HRM -INFO - Login test passed
+2021-10-05 00:50:54,823 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:50:56,580 - Orange HRM -INFO - URL is opened
+2021-10-05 00:50:59,411 - Orange HRM -INFO - user name provided
+2021-10-05 00:50:59,470 - Orange HRM -INFO - password provided
+2021-10-05 00:51:04,173 - Orange HRM -INFO - Login passed
+2021-10-05 00:51:04,233 - Orange HRM -INFO - user name provided
+2021-10-05 00:51:04,386 - Orange HRM -INFO - password provided
+2021-10-05 00:51:09,278 - Orange HRM -INFO - Login passed
+2021-10-05 00:51:09,372 - Orange HRM -INFO - user name provided
+2021-10-05 00:51:09,428 - Orange HRM -INFO - password provided
+2021-10-05 00:51:14,181 - Orange HRM -INFO - Login passed
+2021-10-05 00:51:14,240 - Orange HRM -INFO - user name provided
+2021-10-05 00:51:14,289 - Orange HRM -INFO - password provided
+2021-10-05 00:51:19,009 - Orange HRM -INFO - Login passed
+2021-10-05 00:51:19,061 - Orange HRM -INFO - user name provided
+2021-10-05 00:51:19,112 - Orange HRM -INFO - password provided
+2021-10-05 00:51:23,825 - Orange HRM -INFO - Login passed
+2021-10-05 00:51:23,826 - Orange HRM -INFO - Closing Browser
+2021-10-05 00:51:25,731 - Orange HRM -INFO - URL is opened
+2021-10-05 00:51:27,705 - Orange HRM -INFO - User name is provided
+2021-10-05 00:51:27,793 - Orange HRM -INFO - Passsword is provided
+2021-10-05 00:51:35,185 - Orange HRM -INFO - providing customer details....
+2021-10-05 00:51:45,036 - Orange HRM -INFO - validation started....
+2021-10-05 00:51:45,079 - Orange HRM -INFO - Customer Not Registered Successfully!!!.
+2021-10-05 00:51:45,183 - Orange HRM -INFO - Closing Browser
