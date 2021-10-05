@@ -1,0 +1,10 @@
+com\sample\testCases\TC_AddCustomerTest_003.class
+com\sample\pageObjects\HomePage.class
+com\sample\testCases\TC_LoginDDT_002.class
+com\sample\utilities\GenerateReport.class
+com\sample\base\BaseClass.class
+com\sample\testCases\TC_LoginTest_001.class
+com\sample\utilities\ReadConfig.class
+com\sample\utilities\XLUtils.class
+com\sample\pageObjects\LoginPage.class
+com\sample\pageObjects\AddCustomerPage.class
