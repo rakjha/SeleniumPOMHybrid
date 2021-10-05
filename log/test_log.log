@@ -1,0 +1,60 @@
+2021-10-06 02:21:45,988 - Sample Project -INFO - URL is opened
+2021-10-06 02:21:45,988 [main] INFO Sample Project - URL is opened
+2021-10-06 02:21:47,991 - Sample Project -INFO - URL is opened
+2021-10-06 02:21:47,991 [main] INFO Sample Project - URL is opened
+2021-10-06 02:21:48,105 - Sample Project -INFO - Entered username
+2021-10-06 02:21:48,105 [main] INFO Sample Project - Entered username
+2021-10-06 02:21:48,159 - Sample Project -INFO - Entered password
+2021-10-06 02:21:48,159 [main] INFO Sample Project - Entered password
+2021-10-06 02:21:52,250 - Sample Project -INFO - Login test passed
+2021-10-06 02:21:52,250 [main] INFO Sample Project - Login test passed
+2021-10-06 02:21:52,259 - Sample Project -INFO - Closing Browser
+2021-10-06 02:21:52,259 [main] INFO Sample Project - Closing Browser
+2021-10-06 02:21:54,768 - Sample Project -INFO - URL is opened
+2021-10-06 02:21:54,768 [main] INFO Sample Project - URL is opened
+2021-10-06 02:21:57,387 - Sample Project -INFO - user name provided
+2021-10-06 02:21:57,387 [main] INFO Sample Project - user name provided
+2021-10-06 02:21:57,458 - Sample Project -INFO - password provided
+2021-10-06 02:21:57,458 [main] INFO Sample Project - password provided
+2021-10-06 02:22:02,064 - Sample Project -INFO - Login passed
+2021-10-06 02:22:02,064 [main] INFO Sample Project - Login passed
+2021-10-06 02:22:02,188 - Sample Project -INFO - user name provided
+2021-10-06 02:22:02,188 [main] INFO Sample Project - user name provided
+2021-10-06 02:22:02,341 - Sample Project -INFO - password provided
+2021-10-06 02:22:02,341 [main] INFO Sample Project - password provided
+2021-10-06 02:22:07,132 - Sample Project -INFO - Login passed
+2021-10-06 02:22:07,132 [main] INFO Sample Project - Login passed
+2021-10-06 02:22:07,193 - Sample Project -INFO - user name provided
+2021-10-06 02:22:07,193 [main] INFO Sample Project - user name provided
+2021-10-06 02:22:07,243 - Sample Project -INFO - password provided
+2021-10-06 02:22:07,243 [main] INFO Sample Project - password provided
+2021-10-06 02:22:12,203 - Sample Project -INFO - Login passed
+2021-10-06 02:22:12,203 [main] INFO Sample Project - Login passed
+2021-10-06 02:22:12,267 - Sample Project -INFO - user name provided
+2021-10-06 02:22:12,267 [main] INFO Sample Project - user name provided
+2021-10-06 02:22:12,319 - Sample Project -INFO - password provided
+2021-10-06 02:22:12,319 [main] INFO Sample Project - password provided
+2021-10-06 02:22:17,446 - Sample Project -INFO - Login passed
+2021-10-06 02:22:17,446 [main] INFO Sample Project - Login passed
+2021-10-06 02:22:17,571 - Sample Project -INFO - user name provided
+2021-10-06 02:22:17,571 [main] INFO Sample Project - user name provided
+2021-10-06 02:22:17,636 - Sample Project -INFO - password provided
+2021-10-06 02:22:17,636 [main] INFO Sample Project - password provided
+2021-10-06 02:22:22,583 - Sample Project -INFO - Login passed
+2021-10-06 02:22:22,583 [main] INFO Sample Project - Login passed
+2021-10-06 02:22:22,583 - Sample Project -INFO - Closing Browser
+2021-10-06 02:22:22,583 [main] INFO Sample Project - Closing Browser
+2021-10-06 02:22:25,174 - Sample Project -INFO - URL is opened
+2021-10-06 02:22:25,174 [main] INFO Sample Project - URL is opened
+2021-10-06 02:22:27,088 - Sample Project -INFO - User name is provided
+2021-10-06 02:22:27,088 [main] INFO Sample Project - User name is provided
+2021-10-06 02:22:27,156 - Sample Project -INFO - Password is provided
+2021-10-06 02:22:27,156 [main] INFO Sample Project - Password is provided
+2021-10-06 02:22:31,804 - Sample Project -INFO - providing customer details....
+2021-10-06 02:22:31,804 [main] INFO Sample Project - providing customer details....
+2021-10-06 02:22:33,732 - Sample Project -INFO - validation started....
+2021-10-06 02:22:33,732 [main] INFO Sample Project - validation started....
+2021-10-06 02:22:33,737 - Sample Project -INFO - Customer Not Registered Successfully!!!.
+2021-10-06 02:22:33,737 [main] INFO Sample Project - Customer Not Registered Successfully!!!.
+2021-10-06 02:22:33,870 - Sample Project -INFO - Closing Browser
+2021-10-06 02:22:33,870 [main] INFO Sample Project - Closing Browser

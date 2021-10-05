@@ -11,7 +11,7 @@ public class AddCustomerPage {
 	public AddCustomerPage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
-	
+
 	@FindBy(how = How.XPATH, using ="//a[contains(text(),'New Customer')]")
 	WebElement lnkAddNewCustomer;
 
@@ -47,15 +47,15 @@ public class AddCustomerPage {
 
 	@FindBy(how = How.NAME, using = "sub")
 	WebElement btnSubmit;
-	
+
 	public void clickAddNewCustomer() {
 		lnkAddNewCustomer.click();
-			
+
 	}
 
 	public void custName(String cname) {
 		txtCustomerName.sendKeys(cname);
-		
+
 	}
 
 	public void custgender(String cgender) {
@@ -66,7 +66,7 @@ public class AddCustomerPage {
 		txtdob.sendKeys(mm);
 		txtdob.sendKeys(dd);
 		txtdob.sendKeys(yy);
-		
+
 	}
 
 	public void custaddress(String caddress) {
@@ -100,7 +100,7 @@ public class AddCustomerPage {
 	public void custsubmit() {
 		btnSubmit.click();
 	}
-	
-	
-	
+
+
+
 }

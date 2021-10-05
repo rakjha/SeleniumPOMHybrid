@@ -24,7 +24,10 @@
                         <!-- TestNG suite XML files -->
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
-
+                    <systemPropertyVariables>
+                        <!--suppress UnresolvedMavenProperty -->
+                        <browser>${browser}</browser>
+                    </systemPropertyVariables>
                 </configuration>
             </plugin>
         </plugins>
@@ -53,13 +56,6 @@
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
             <version>5.0.0</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
-        <dependency>
-            <groupId>com.aventstack</groupId>
-            <artifactId>extentreports</artifactId>
-            <version>3.1.2</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
@@ -136,7 +132,14 @@
             <version>7.4.0</version>
             <scope>test</scope>
         </dependency>
-        
+
+        <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>5.0.5</version>
+        </dependency>
+
     </dependencies>
 
 

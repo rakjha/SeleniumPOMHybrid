@@ -3,8 +3,8 @@
 <suite name="Suite">
 
  
-  <test thread-count="5" name="Test">
-  <parameter name="browser" value="chrome" />
+  <test thread-count="1" name="Test">
+  <parameter name="browser" value="Opera" />
     <classes> 
        <class name="com.sample.testCases.TC_LoginTest_001"/>
        <class name="com.sample.testCases.TC_LoginDDT_002"/>
@@ -14,7 +14,7 @@
   
    
  	<listeners>
-		<listener class-name="com.sample.utilities.Reporting" />
+		<listener class-name="com.sample.utilities.GenerateReport" />
 	</listeners>
 	
 </suite> <!-- Suite -->

@@ -1,2 +1,2 @@
-cd G:\EclipseProject\SampleProject1
+cd G:\GitHub\SeleniumPOMHybrid
 mvn clean test -Dbrowser=Edge
